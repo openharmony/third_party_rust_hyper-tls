@@ -1,0 +1,11 @@
+[
+  {
+    "Name": "hyper-tls",
+    "License": "Apache License V2.0, MIT",
+    "License File": "LICENSE-APACHE, LICENSE-MIT",
+    "Version Number": "0.5.0",
+    "Owner": "xuelei3@huawei.com",
+    "Upstream URL": "https://github.com/hyperium/hyper-tls",
+    "Description": "Default TLS implementation for use with hyper."
+  }
+]
